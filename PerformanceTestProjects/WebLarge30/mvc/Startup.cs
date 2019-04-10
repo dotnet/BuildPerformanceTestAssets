@@ -30,8 +30,8 @@ namespace core
             });
 
 
-            services.AddControllersWithViews()
-                .AddNewtonsoftJson();
+            services.AddControllersWithViews();
+                //.AddNewtonsoftJson();
             services.AddRazorPages();
         }
 
