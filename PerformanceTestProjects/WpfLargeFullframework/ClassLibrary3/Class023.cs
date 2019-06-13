@@ -1,7 +1,7 @@
-namespace ClassLib001
+namespace ClassLib003
 {
     public class Class023
     {
-        public static string Property => "ClassLib001";
+        public static string Property => "ClassLib003";
     }
 }
