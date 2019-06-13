@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLargeFullframework", "Wp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{DA3B1706-D5B6-4270-BF07-7961C2405862}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{505A8B84-3A46-4A07-9C29-8BC803380E27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DA3B1706-D5B6-4270-BF07-7961C2405862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3B1706-D5B6-4270-BF07-7961C2405862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3B1706-D5B6-4270-BF07-7961C2405862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505A8B84-3A46-4A07-9C29-8BC803380E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505A8B84-3A46-4A07-9C29-8BC803380E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505A8B84-3A46-4A07-9C29-8BC803380E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505A8B84-3A46-4A07-9C29-8BC803380E27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
